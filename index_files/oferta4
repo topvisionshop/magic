@@ -1,0 +1,453 @@
+<!DOCTYPE html>
+
+<head>
+  <!-- Google Tag Manager -->
+  <script>(function (w, d, s, l, i) {
+      w[l] = w[l] || []; w[l].push({
+        'gtm.start':
+          new Date().getTime(), event: 'gtm.js'
+      }); var f = d.getElementsByTagName(s)[0],
+        j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+          'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+    })(window, document, 'script', 'dataLayer', 'GTM-W486KTX');</script>
+  <!-- End Google Tag Manager -->
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <title>Body Compound® - Kit de reparo</title>
+  <link rel="stylesheet" href="/app.css">
+
+  <script src="/app.js"></script>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+  <script src="/paginadevendas.js"></script>
+  <script>require('initialize');</script>
+  <link rel="stylesheet" href="/plugins/css/swiper-bundle.css">
+  <script src="/plugins/js/swiper-bundle.js"></script>
+
+
+
+  <!-- Hotjar Tracking Code for https://ofertas.izilife.com.br/powerjet/oferta4 -->
+
+  <script type="text/javascript">
+    (function (b) {
+      var a = {
+        version: "0.0.1",
+        history_api: typeof history.pushState !== "undefined",
+        init: function () {
+          a
+          b.location.hash = "#no-back";
+          a.configure();
+        }, hasChanged: function () {
+          if (b.location.hash == "#no-back") {
+            b.location.hash = "#";
+            b.location.href = "http://ofertas.izilife.com.br/bodycompound/oferta4_back_pv"; //LINK PARA REDIRECIONAR AQUI
+          }
+        }, checkCompat: function () {
+          if (b.addEventListener) {
+            b.addEventListener("hashchange", a.hasChanged, false);
+          } else {
+            if (b.attachEvent) {
+              b.attachEvent("onhashchange", a.hasChanged);
+            } else {
+              b.onhashchange = a.hasChanged;
+            }
+          }
+        }, configure: function () {
+          if (b.location.hash == "#no-back") {
+            if (this.history_api) {
+              history.pushState(null, "", "#");
+            } else {
+              b.location.hash = "#";
+              b.location.href = "http://ofertas.izilife.com.br/bodycompound/oferta4_back_pv"; //LINK PARA REDIRECIONAR AQUI
+            }
+          }
+          a.checkCompat();
+          a.hasChanged();
+        }
+      };
+      if (typeof define === "function" && define.amd) {
+        define(function () {
+          return a;
+        });
+      } else {
+        if (typeof module === "object" && module.exports) {
+          module.exports = a;
+        } else {
+          b.noback = a;
+        }
+      } a.init();
+    }(window));
+  </script>
+</head>
+
+<body>
+  <!-- Google Tag Manager (noscript) -->
+  <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-W486KTX" height="0" width="0"
+      style="display:none;visibility:hidden"></iframe></noscript>
+  <!-- End Google Tag Manager (noscript) -->
+
+  <div class="headerdesconto">
+    <p><b>DESCONTO APLICADO</b> - LIMITADO A UMA COMPRA POR CLIENTE</p>
+  </div>
+
+  <div class="container pt-4">
+    <div class="row">
+
+      <div class="col-md-5  ">
+        <div class="swiper-container">
+          <div class="swiper-wrapper">
+            <div class="swiper-slide">
+
+              <img src="https://izilife.sfo3.digitaloceanspaces.com/BodyCompound/img-demo-1.webp"
+                onerror="this.src='https://izilife.sfo3.digitaloceanspaces.com/BodyCompound/img-demo-1.jpg'">
+            </div>
+
+            <div class="swiper-slide">
+              <img src="https://izilife.sfo3.digitaloceanspaces.com/BodyCompound/img-demo-2.webp"
+                onerror="this.src='https://izilife.sfo3.digitaloceanspaces.com/BodyCompound/img-demo-2.jpg'">
+            </div>
+
+            <div class="swiper-slide">
+              <img src="https://izilife.sfo3.digitaloceanspaces.com/BodyCompound/img-edit-4.webp"
+                onerror="this.src='https://izilife.sfo3.digitaloceanspaces.com/BodyCompound/img-edit-4.jpg'">
+            </div>
+
+          </div>
+          <div class="swiper-button-next"></div>
+          <div class="swiper-button-prev"></div>
+          <!-- Add Pagination -->
+          <div class="swiper-pagination"></div>
+        </div>
+      </div>
+
+      <div class="col-md-7 ">
+        <a href="#clientreview">
+          <div>
+            <div class="mb-2 mt-2">
+              <img style="width: 80px;margin-top: -4px;margin-right: 5px;" class="mb-0" src="/img/49estrelas.svg">
+              <span style="font-size: 13px;font-weight: bold">(297 avaliações)</span>
+            </div>
+        </a>
+        <h1>Body Compound® - Kit para remover arranhões.
+        </h1>
+        <p style="font-size: 14px;">(Cód. Item 55006494)</p>
+
+        <div style="float: left;clear:both;margin-right: 10px;">
+          <img style="margin-top:5px; margin-bottom: 0px;" src="/img/truck.png">
+        </div>
+        <p style="font-size:14px; overflow:auto; display:block;padding-top:10px" class="shipping-preview-loading">
+          Calculando prazo de entrega, aguarde...</p>
+        <p style="font-size:14px; margin: 0px; overflow:auto; display:block;" class="custom-address">
+
+        </p>
+        <p style="font-size:14px; margin: 0px; overflow:auto; display:block;" class="shipping-estimated"></p>
+
+        <div style="float: left;clear:both;margin-right: 10px;">
+          <img style="margin-top:5px; margin-bottom: 0px;" src="/img/check.png">
+        </div>
+        <p
+          style="font-weight: bold; color: #bc0406;margin-bottom:0px;font-size:14px; overflow:auto; display:block;padding-top:7px">
+          Compra Segura:
+        </p>
+        <p style="font-size: 14px;margin-bottom: 0px;">Garantia de 30 dias direto em nossa loja</p>
+
+        <div style="float: left;clear:both;margin-right: 10px;">
+          <img style="margin-top:5px; margin-bottom: 0px;" src="/img/devolution.png">
+        </div>
+        <p
+          style="font-weight: bold; color: #bc0406;margin-bottom:0px;font-size:14px; overflow:auto; display:block;padding-top:7px">
+          Troca Fácil:
+        </p>
+        <p style="font-size: 14px;margin-bottom: 0px;">A primeira devolução é por nossa conta.</p>
+
+        <a href="#promocao-foto">
+          <div
+            style="box-shadow:-4px 6px 39px -17px rgba(0,0,0,0.75); margin-top:20px;border-radius:50px;max-width: 350px; background: #bc0406; padding: 10px; margin-bottom: 6px;"
+            class="text-center">
+            <p style="color: #fff; margin-bottom: 0px;font-weight: bold;">Escolher Oferta</p>
+          </div>
+        </a>
+
+        <p style="max-width: 350px; text-align: center; font-size: 15px;">Vendido e entregue por <span
+            style="color: #bc0406; font-weight: bold;">Izilife</span></p>
+      </div>
+
+
+    </div>
+    <div class="col-12">
+
+      <center><img
+          style="width:90%;margin-top: 20px;border-radius: 15%;box-shadow: 1px 10px 30px -15px rgba(0,0,0,0.75);    max-width: 500px; max-height: 500px;"
+          src="https://izilife.sfo3.digitaloceanspaces.com/BodyCompound/gif-edit-1.gif" alt="">
+      </center>
+      <h1 class="h1-sam">Kit de Reparo <br> Body Compound®</h1>
+      <h2 class="h2-sam">Removedor de Manchas e Arranhões</h2>
+      <p class="p-sam">Utilizado por centros automotivos profissionais, agora para você usar no conforto de sua casa!
+      </p>
+
+      <center>
+        <img src="https://izilife.sfo3.digitaloceanspaces.com/BodyCompound/img-demo-2.webp"
+          onerror="this.src='https://izilife.sfo3.digitaloceanspaces.com/BodyCompound/img-demo-2.jpg'">
+      </center>
+      <h1 class="h1-sam">Único e completo</h1>
+      <h2 class="h2-sam">Desenvolvido por especialistas</h2>
+      <p class="p-sam">Além de manter seu carro elegante e livre dos arranhões. Body Compound® limpa pneus, portas,
+        tricos e fechaduras eficazmente. !</p>
+
+      <center>
+        <img src="https://izilife.sfo3.digitaloceanspaces.com/BodyCompound/img-edit-2.webp"
+          onerror="this.src='https://izilife.sfo3.digitaloceanspaces.com/BodyCompound/img-edit-2.png'">
+      </center>
+      <h1 class="h1-sam">Restaura o brilho e a cor original do seu carro</h1>
+      <p class="p-sam">Seu veículo tem marcas que tiram a beleza e desvalorizam seu patrimônio? Finalmente surgiu uma
+        alternativa barataque possa lhe satisfazer!</p>
+
+      <center>
+        <img src="https://izilife.sfo3.digitaloceanspaces.com/BodyCompound/img-edit-1.webp"
+          onerror="this.src='https://izilife.sfo3.digitaloceanspaces.com/BodyCompound/img-edit-1.png'">
+      </center>
+      <h1 class="h1-sam">Muito fácil de usar</h1>
+      <h2 class="h2-sam">Ideal para uso no dia a dia.</h2>
+      <p class="p-sam">Basta limpar, aplicar o produto e deixar agir por alguns instantes, e depois esfregar em
+        movimentos circulares utilizando sua esponja especial.
+      </p>
+
+      <center>
+        <img src="https://izilife.sfo3.digitaloceanspaces.com/BodyCompound/img-edit-3.webp"
+          onerror="this.src='https://izilife.sfo3.digitaloceanspaces.com/BodyCompound/img-edit-3.jpg'">
+      </center>
+      <h1 class="h1-sam">Para todas as cores</h1>
+      <p id="promocao-foto" class="p-sam">
+        Body Compound® possui uma formula única que além de polir, remove a opacidade e deixa seu carro como novo! Isso
+        sem causa nenhum dano!
+      </p>
+
+      <center><img class="pt-4 mb-0" src="https://izilife.sfo3.digitaloceanspaces.com/ElementosGerais/testebarra.svg"
+          alt=""></center>
+      <center><img id="promocao-foto" class="pt-3 pb-4"
+          src="https://izilife.sfo3.digitaloceanspaces.com/ElementosGerais/im-promo.svg" alt=""></center>
+
+      <div
+        style="margin-bottom:40px;box-shadow:
+        0 7px 30px -10px rgba(150,170,180,0.5);border:6px solid #f9f9f9; border-top-left-radius: 50px; border-bottom-right-radius: 50px; padding: 25px;"
+        class="text-center">
+        <img src="https://izilife.sfo3.digitaloceanspaces.com/BodyCompound/kit1.webp"
+          onerror="this.src='https://izilife.sfo3.digitaloceanspaces.com/BodyCompound/kit1.jpg'">
+        <p style="margin-bottom:5px;font-weight:bold;font-size:24px">1 UNIDADE 15g</p>
+        <p class="mb-2"><span style="border-radius: 10px; padding:5px 8px;background: #2c2c2c; color: #fff;">ECONOMIA DE
+            <span style="color: #ffc600;font-weight: bold;">40%</span></span></p>
+        <p class="mb-2">de <span style="color: red;"><strike>R$149,90</strike></span> por R$79,90</p>
+
+        <p
+          style="line-height:65px;margin-bottom:0px;font-family:'Samsung Sharp Sans Medium';font-size: 60px;font-weight: bold;">
+          <span style="font-size:25px;font-weight: normal; color: #5b5b5b;">12X</span> R$7,90
+        </p>
+
+        <a href="https://izilife.pay.yampi.com.br/r/LR78YDV0CT">
+          <img style="margin-bottom: 0px;" class="cardbotao" src="/img/botao-compra-v3.svg" alt=""></a>
+      </div>
+
+      <div
+        style="margin-bottom:40px;box-shadow:
+        0 7px 30px -10px rgba(150,170,180,0.5);border:6px solid #f9f9f9; border-top-left-radius: 50px; border-bottom-right-radius: 50px; padding: 25px;"
+        class="text-center">
+        <img src="https://izilife.sfo3.digitaloceanspaces.com/BodyCompound/kit2.webp"
+          onerror="this.src='https://izilife.sfo3.digitaloceanspaces.com/BodyCompound/kit2.jpg'">
+        <p style="margin-bottom:5px;font-weight:bold;font-size:24px">2 UNIDADES 30g</p>
+        <p class="mb-2"><span style="border-radius: 10px; padding:5px 8px;background: #2c2c2c; color: #fff;">ECONOMIA DE
+            <span style="color: #ffc600;font-weight: bold;">45%</span></span></p>
+        <p class="mb-2">de <span style="color: red;"><strike>R$239,90</strike></span> por R$129,90</p>
+
+        <p
+          style="line-height:65px;margin-bottom:0px;font-family:'Samsung Sharp Sans Medium';font-size: 60px;font-weight: bold;">
+          <span style="font-size:25px;font-weight: normal; color: #5b5b5b;">12X</span> R$12,90
+        </p>
+        <a href="https://izilife.pay.yampi.com.br/b/TF5T2ZFQT8G0">
+          <img style="margin-bottom: 0px;" class="cardbotao" src="/img/botao-compra-v3.svg" alt=""></a>
+      </div>
+
+      <div
+        style="margin-bottom:40px;box-shadow:
+        0 7px 30px -10px rgba(150,170,180,0.5);border:6px solid #f9f9f9; border-top-left-radius: 50px; border-bottom-right-radius: 50px; padding: 25px;"
+        class="text-center">
+        <img src="https://izilife.sfo3.digitaloceanspaces.com/BodyCompound/kit3.webp"
+          onerror="this.src='https://izilife.sfo3.digitaloceanspaces.com/BodyCompound/kit3.jpg'">
+        <p style="margin-bottom:5px;font-weight:bold;font-size:24px">3 UNIDADES 45g</p>
+        <p class="mb-2"><span style="border-radius: 10px; padding:5px 8px;background: #2c2c2c; color: #fff;">ECONOMIA DE
+            <span style="color: #ffc600;font-weight: bold;">50%</span></span></p>
+        <p class="mb-2">de <span style="color: red;"><strike>R$359,90</strike></span> por R$169,90</p>
+
+
+        <p
+          style="line-height:65px;margin-bottom:0px;font-family:'Samsung Sharp Sans Medium';font-size: 60px;font-weight: bold;">
+          <span style="font-size:25px;font-weight: normal; color: #5b5b5b;">12X</span> R$16,90
+        </p>
+        <a href="https://izilife.pay.yampi.com.br/b/4E9FV92C0NQC">
+          <img style="margin-bottom: 0px;" class="cardbotao" src="/img/botao-compra-v3.svg" alt=""></a>
+      </div>
+
+
+
+      <div id="clientreview">
+        <div class="row justify-content-center">
+          <div class="col-12">
+
+            <div class="col-12 pt-4">
+              <h3>Avaliações de Clientes</h3>
+              <span id="numbertotalrate">4.9</span>
+              <img id="startotalrate" src="/img/49estrelas.svg">
+              <p id="totalreview">(297 avaliações)</p>
+              <p id="reviewrecommend"><span class="bc0406-bold">97%</span> dos
+                clientes recomendam esse produto</p>
+              <hr>
+            </div>
+
+            <div id="commentfak" style="display: none;" class="col-12 clientreview-card">
+              <p id="nome2" class="mb-0 font-weight-bold"></p>
+              <span id="data2" class="data-coment"></span>
+              <img id="reviewrate2" class="mb-0" src="" alt="">
+              <p id="comentario2" class="client-coment">
+              </p>
+              <hr>
+            </div>
+
+            <!-- -----CLONAR AQUI--------- -->
+
+            <div class="col-12 clientreview-card">
+              <p class="mb-0 font-weight-bold">Cleiton Soares</p>
+              <span class="data-coment"></span>
+              <img src="/img/5estrelas.svg" alt="">
+              <p class="client-coment">Gostei muito do produto, entrega muito rápida, chegou em 6 dias aqui em <span
+                  class="cidade">São Paulo</span>
+              </p>
+              <hr>
+            </div>
+
+            <div class="col-12 clientreview-card">
+              <p class="mb-0 font-weight-bold">Caio Justino</p>
+              <span class="data-coment"></span>
+              <img src="/img/4estrelas.svg" alt="">
+              <p class="client-coment">Demorou pra chegar, mas vocês tem um ótimo auxilio ao cliente, parabéns, produto
+                faz o que promete, dei 4 estrela pq demrou
+              </p>
+              <hr>
+            </div>
+
+            <div class="col-12 clientreview-card">
+              <p class="mb-0 font-weight-bold">Rosane Mendes</p>
+              <span class="data-coment"></span>
+              <img src="/img/5estrelas.svg" alt="">
+              <p class="client-coment">top resultado reamente funciona nesses arranhoes, com o tempoo usando muito vai
+                sumindo
+
+              </p>
+              <hr>
+            </div>
+
+            <div class="col-12 clientreview-card">
+              <p class="mb-0 font-weight-bold">Marcelo Guimarães</p>
+              <span class="data-coment"></span>
+              <img src="/img/5estrelas.svg" alt="">
+              <p class="client-coment">Excelente Produto, 5 estrelas pra loja, vim pela recomendação do portal... bom
+                produto
+
+              </p>
+              <hr>
+            </div>
+
+            <div class="col-12 clientreview-card">
+              <p class="mb-0 font-weight-bold">Juliana</p>
+              <span class="data-coment"></span>
+              <img src="/img/5estrelas.svg" alt="">
+              <p class="client-coment">Excelente mercadoria, recomendo a todos, tirou os riscos do meu carro e deixou
+                ele com um brilho bonito, obrigado izilife pelo atendimento e pelo produto 😊
+              </p>
+              <hr>
+            </div>
+
+            <div class="col-12 clientreview-card">
+              <p class="mb-0 font-weight-bold">Fabi Souza</p>
+              <span class="data-coment"></span>
+              <img src="/img/5estrelas.svg" alt="">
+              <p class="client-coment">Isso deixou meu carro novinhoo, adoreii. Super recomendo! Realmente a cera cumpre
+                o que promete, meu carro agradece
+              </p>
+              <hr>
+            </div>
+
+            <!-- -----CLONAR AQUI--------- -->
+
+            <div id="escrevercomment" class="col-12">
+              <p class="font-weight-bold mb-3">Escrever uma avaliação</p>
+              <form id="commentform">
+                <div class="form-group mb-3">
+                  <div class="form-check form-check-inline">
+                    <input required class="form-check-input" type="radio" name="inlineRadioOptions" id="rate1"
+                      value="1">
+                    <label class="form-check-label" for="inlineRadio1">1</label>
+                  </div>
+                  <div class="form-check form-check-inline">
+                    <input class="form-check-input" type="radio" name="inlineRadioOptions" id="rate2" value="2">
+                    <label class="form-check-label" for="inlineRadio2">2</label>
+                  </div>
+                  <div class="form-check form-check-inline">
+                    <input class="form-check-input" type="radio" name="inlineRadioOptions" id="rate3" value="3">
+                    <label class="form-check-label" for="inlineRadio2">3</label>
+                  </div>
+                  <div class="form-check form-check-inline">
+                    <input class="form-check-input" type="radio" name="inlineRadioOptions" id="rate4" value="4">
+                    <label class="form-check-label" for="inlineRadio2">4</label>
+                  </div>
+                  <div class="form-check form-check-inline">
+                    <input class="form-check-input" type="radio" name="inlineRadioOptions" id="rate5" value="5">
+                    <label class="form-check-label" for="inlineRadio2">5</label>
+                  </div>
+                </div>
+                <div class="form-group">
+                  <input required type="text" class="form-control" id="nome" placeholder="Nome">
+                </div>
+                <div class="form-group">
+                  <textarea required placeholder="Comentário" class="form-control" id="comentario" rows="2"></textarea>
+                </div>
+
+                <button style="width: 50%;" type="submit" class="btn btn-primary">Enviar</button>
+              </form>
+            </div>
+          </div>
+        </div>
+      </div> <!-- END CLIENT REVIEW -->
+
+    </div> <!-- END-COL-MD-12 -->
+
+  </div>
+  </div>
+
+  <div class="container-fluid black-bg pt-3 mt-5">
+    <div class="row justify-content-center pv-rodape2">
+
+      <div class="col-lg-12 text-center ">
+        <ul class="list-inline ofertaredessociais">
+          <li class="list-inline-item"><a href="https://www.instagram.com/izilifeoficial"><img src="/img/instagram.png"
+                alt=""></a></li>
+          <li class="list-inline-item"><a href="https://www.facebook.com/IziLife-Ofertas-101972781718453"><img
+                src="/img/facebook.png" alt=""></a></li>
+          <li class="list-inline-item"><a href=" mailto:contato@izilife.com.br "><img id="gmail" src="/img/gmail.png"
+                alt=""></a></li>
+        </ul>
+        <ul class="list-inline ofertalistarodape">
+          <li class="list-inline-item"><a href="https://www.izilife.com.br/pages/rastreio">Rastrear Pedido</a></li>
+          <li class="list-inline-item"><a href="https://www.izilife.com.br/pages/perguntas-frequentes">Perguntas
+              Frequentes</a></li>
+          <li class="list-inline-item"><a href="https://www.izilife.com.br/pages/contato">Contato</a></li>
+          <li class="list-inline-item"><a href="https://www.izilife.com.br/pages/politicas-e-termos-do-site">Termos de
+              Uso</a></li>
+        </ul>
+        <p style="padding-bottom:0px;font-size:14px">Izilife® 2021, Todos os direitos reservados.<br>34.453.293/0001-84
+        </p>
+        <p></p>
+
+      </div>
+
+    </div>
+  </div>
+
+</body>
